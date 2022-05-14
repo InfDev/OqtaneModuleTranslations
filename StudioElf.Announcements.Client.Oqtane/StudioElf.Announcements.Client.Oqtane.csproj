@@ -12,4 +12,10 @@
     <Copyright>InfDev</Copyright>
   </PropertyGroup>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy /Y $(OutDir)ru-RU\StudioElf.Announcements.Client.Oqtane.resources.dll ..\dist\net6.0\ru-RU\" />
+    <Exec Command="xcopy /Y $(OutDir)uk-UA\StudioElf.Announcements.Client.Oqtane.resources.dll ..\dist\net6.0\uk-UA\" />
+	<Exec Command="xcopy /Y $(OutDir)StudioElf.Announcements.Client.Oqtane.deps.json ..\dist\net6.0\" />
+  </Target>
+
 </Project>

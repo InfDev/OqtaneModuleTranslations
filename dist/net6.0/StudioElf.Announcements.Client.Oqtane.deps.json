@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudioElf.Announcements.Client.Oqtane/2.3.0.0": {
+        "runtime": {
+          "StudioElf.Announcements.Client.Oqtane.dll": {}
+        },
+        "resources": {
+          "ru-RU/StudioElf.Announcements.Client.Oqtane.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "uk-UA/StudioElf.Announcements.Client.Oqtane.resources.dll": {
+            "locale": "uk-UA"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudioElf.Announcements.Client.Oqtane/2.3.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
