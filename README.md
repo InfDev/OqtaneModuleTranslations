@@ -6,3 +6,5 @@ OqtaneModuleTranslations contains localized resources for extenal modules of [oq
 	- ru-RU\StudioElf.Announcements.Client.Oqtane.resources.dll
 	- uk-UA\StudioElf.Announcements.Client.Oqtane.resources.dll
 	- StudioElf.Announcements.Client.Oqtane.deps.json
+
+Translation for Oqtane Framework on [Russian (Ukraine partial)](https://github.com/InfDev/oqtane.translations)
