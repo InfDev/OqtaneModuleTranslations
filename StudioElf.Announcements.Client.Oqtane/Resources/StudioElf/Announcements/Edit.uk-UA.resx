@@ -190,7 +190,7 @@
     <value>Категоризуйте свою публікацію</value>
   </data>
   <data name="UriCaption" xml:space="preserve">
-    <value>Заголовок для URL</value>
+    <value>Текст для URL</value>
   </data>
   <data name="ImageIcon.HelpText" xml:space="preserve">
     <value>Це значок, який знаходиться праворуч унизу над основним зображенням.</value>
