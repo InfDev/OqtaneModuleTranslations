@@ -5,9 +5,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<RootNamespace>StudioElf.Announcements.Client</RootNamespace>
-	<Version>2.3.0.0</Version>
+	<Version>2.4.0.0</Version>
     <ProductName>StudioElf.Announcements</ProductName>
-    <ProductVersion>2.3.0</ProductVersion>
+    <ProductVersion>2.4.0</ProductVersion>
     <Company>StudioElf</Company>
     <Copyright>InfDev</Copyright>
   </PropertyGroup>

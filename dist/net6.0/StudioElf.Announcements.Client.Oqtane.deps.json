@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "StudioElf.Announcements.Client.Oqtane/2.3.0.0": {
+      "StudioElf.Announcements.Client.Oqtane/2.4.0.0": {
         "runtime": {
           "StudioElf.Announcements.Client.Oqtane.dll": {}
         },
@@ -22,7 +22,7 @@
     }
   },
   "libraries": {
-    "StudioElf.Announcements.Client.Oqtane/2.3.0.0": {
+    "StudioElf.Announcements.Client.Oqtane/2.4.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
